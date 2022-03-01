@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactlibrary.rnthreads;
 
 import android.os.Handler;
 import android.os.Looper;
